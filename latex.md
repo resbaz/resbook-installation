@@ -29,9 +29,11 @@ Local installation:
 |It is completely free                                                            |Realtime collaboration is usually not possible|
 
 In practice, most people will use a hybrid approach.
+
 It would be sensible to start by learning LaTeX in a friendly online environment.
 As your experience grows and you start to find the online experience too encumbered and restrictive,
 you will probably start to use LaTeX offline in some situations.
+
 Combining LaTeX with a distributed versioning system such as Git tends to offsite most of the perceived disadvantage of working offline.
 
 The [LaTeX Project](https://www.latex-project.org/get/) offers further directions for accessing both online LaTeX services and offline LaTeX installations.
