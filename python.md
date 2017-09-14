@@ -11,7 +11,7 @@ Contents
      - [Windows Installation](#windows-installation)
      - [Mac OS X Installation](#mac-os-x-installation)
      - [Linux Installation](#linux-installation)
-     - [Pip Installation for Advanced Users](#pip-installation-for-advanced-users)
+   * [pip Installation for Advanced Users](#pip-installation-for-advanced-users)
 3. [Launching the Jupyter Notebook](#launching-the-jupyter-notebook)
 
 Introduction
@@ -141,7 +141,7 @@ This option will install base Python onto your device, and allows you to install
   You may also edit `~/.bash_profile` and remove the Miniconda directory from your `PATH` environment variable, and remove the hidden `.condarc` file and `.conda` and `.continuum` directories which may have been created in the home directory with: `rm -rf ~/.condarc ~/.conda ~/.continuum`
 
 
-### Pip Installation for Advanced Users
+## pip Installation for Advanced Users
 
 As an existing Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
 
@@ -194,4 +194,4 @@ When you create a new `*.ipynb` notebook, you'll get something that looks like t
 
 Play around with the notebook, and have a look to see what you can do.
 If you'd like a more guided tour/playbox, you can find one
-[here](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
+[here](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb).
