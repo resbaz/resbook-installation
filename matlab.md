@@ -20,4 +20,4 @@ However, if you have a good internet connection and you are using a small device
 where space and computing power are limited,
 you might be interested to know that you can use MATLAB online.
 
-You will see this option available after you follow your institution's instructions to log in at https://matlab.mathworks.com/ and associate with your institutional licence.
+You will see this option available after you follow your institution's instructions to log in at [MathWorks](https://matlab.mathworks.com/) and associate with your institutional licence.

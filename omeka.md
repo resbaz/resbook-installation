@@ -1,8 +1,8 @@
 Omeka
 ====
 
-There are two ways to use Omeka: either sign up for a free basic account at https://www.omeka.net/signup
-or download the newest version with extra bells and whistles from https://omeka.org/download/
+There are two ways to use Omeka: either sign up for a free basic account at [https://www.omeka.net/signup](https://www.omeka.net/signup)
+or download the newest version with extra bells and whistles from [https://omeka.org/download/](https://omeka.org/download/)
 
 The first option is a lot easier.
 If you just want to trial and gain initial experience with Omeka,
@@ -14,7 +14,7 @@ It comes at the price that it requires some Linux systems administration skills.
 In particular, Omeka runs on what is known as a *LAMP stack*:
 
 - **L**inux
-- **A**pache
+- **A**pache Web Server
 - **M**ySQL
 - **P**HP
 
@@ -30,4 +30,4 @@ you will need to find a way to learn.
 ([It is possible to teach yourself!](https://opensource.com/education/14/4/windows-to-linux-system-administration))
 
 To find out more about the installation, care and feeding of an Omeka site,
-see [Documentation](https://omeka.org/codex/Documentation).
+see the [Documentation](https://omeka.org/codex/Documentation).
