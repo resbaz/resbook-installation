@@ -9,3 +9,4 @@ Follow the links to find out how to install any software you need!
 * [NLTK](./nltk)
 * [R](./r)
 * [LaTeX](./latex)
+* [Inventor](./inventor)
