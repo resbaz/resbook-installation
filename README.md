@@ -3,13 +3,13 @@ ResBook Installation Directory
 
 Follow the links to find out how to install any software you need!
 
-* [MATLAB](./matlab)
-* [Omeka](./omeka)
-* [Python](./python)
 * [NLTK](./nltk)
+* [Python](./python)
 * [R](./r)
-* [LaTeX](./latex)
-* [Inventor](./inventor)
-* [D3](./d3)
+* [MATLAB](./matlab)
 * [TinkerCAD](./tinkercad)
+* [Inventor](./inventor)
 * [3DSlicer](./3d-slicer)
+* [D3](./d3)
+* [Omeka](./omeka)
+* [LaTeX](./latex)
