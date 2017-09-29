@@ -8,7 +8,8 @@ TinkerCAD will store all your designs so you can access them from anywhere.
 Create your TinkerCAD account: https://www.tinkercad.com/
 
 <center>
-[![screenshot](./figures/tinkercad-thumb.png)](./figures/tinkercad.png)
+[<img src="./figures/tinkercad-thumb.png" />](./figures/tinkercad.png)
+
 _Figure 5. The TinkerCAD website_
 </center>
 
