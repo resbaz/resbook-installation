@@ -11,3 +11,4 @@ Follow the links to find out how to install any software you need!
 * [LaTeX](./latex)
 * [Inventor](./inventor)
 * [D3](./d3)
+* [TinkerCAD](./tinkercad)
