@@ -5,7 +5,7 @@ TinkerCAD is a free web based program.
 Simply create an account and you will be able to login from any computer, just like a facebook account.
 TinkerCAD will store all your designs so you can access them from anywhere.
 
-Create your TinkerCAD account: https://www.tinkercad.com/
+Create your TinkerCAD account at [www.tinkercad.com](https://www.tinkercad.com/).
 
 <center>
   <a href="./figures/tinkercad.png">
