@@ -37,3 +37,9 @@ you will probably start to use LaTeX offline in some situations.
 Combining LaTeX with a distributed versioning system such as Git tends to offsite most of the perceived disadvantage of working offline.
 
 The [LaTeX Project](https://www.latex-project.org/get/) offers further directions for accessing both online LaTeX services and offline LaTeX installations.
+
+Note that a wide variety of institutions (including [University of Melbourne](https://www.unimelb.edu.au/))
+have licences for [ShareLaTeX](https://sharelatex.com).
+Although ShareLaTeX offers free accounts, people at a licensed institution who
+sign up with a valid email address will gain access to free account upgrades,
+such as infinite undo and realtime online collaboration.
