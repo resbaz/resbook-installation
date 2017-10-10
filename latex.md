@@ -38,6 +38,12 @@ Combining LaTeX with a distributed versioning system such as Git tends to offsit
 
 The [LaTeX Project](https://www.latex-project.org/get/) offers further directions for accessing both online LaTeX services and offline LaTeX installations.
 
+Note that a wide variety of institutions (including [University of Melbourne](https://www.unimelb.edu.au/))
+have licences for [ShareLaTeX](https://sharelatex.com).
+Although ShareLaTeX offers free accounts, people at a licensed institution who
+sign up with a valid email address will gain access to free account upgrades,
+such as infinite undo and realtime online collaboration.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
   <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
