@@ -9,6 +9,7 @@ Follow the links to find out how to install any software you need!
 * [MATLAB](./matlab)
 * [TinkerCAD](./tinkercad)
 * [Inventor](./inventor)
+* [Fusion 360](./fusion360)
 * [3DSlicer](./3d-slicer)
 * [D3](./d3)
 * [Omeka](./omeka)
